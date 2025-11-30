@@ -1,30 +1,55 @@
-# TripGenie landing page
+# 🌍 TripGenie — AI-Powered Travel Planner Landing Page
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern, responsive landing page built for **TripGenie**, an AI-powered travel itinerary planner.  
+Designed using **Next.js**, **Tailwind CSS**, and **Vercel v0**, this landing page demonstrates a clean SaaS-style UI suitable for product showcases and marketing sites.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/srivastavaharsh0806-4096s-projects/v0-trip-genie-landing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/dDO6Eir5FFq)
+---
 
-## Overview
+## 🚀 Live Demo
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+🔗 **View Website:** https://v0-trip-genie-landing-page.vercel.app/
 
-## Deployment
+---
 
-Your project is live at:
+## 📌 About the Project
 
-**[https://vercel.com/srivastavaharsh0806-4096s-projects/v0-trip-genie-landing-page](https://vercel.com/srivastavaharsh0806-4096s-projects/v0-trip-genie-landing-page)**
+TripGenie is a landing page concept for an AI-powered travel assistant that helps users automatically generate itineraries, optimize budgets, and plan group trips.  
+The main goal of this project is to showcase a **professional, high-quality landing page UI** using modern frontend technologies.
 
-## Build your app
+This project includes:
+- Hero section with CTA
+- Features overview
+- Testimonials / social proof
+- Pricing plans
+- Footer
+- Fully responsive design
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/dDO6Eir5FFq](https://v0.app/chat/dDO6Eir5FFq)**
+## ✨ Features
 
-## How It Works
+- **Fully Responsive Design** (mobile → tablet → desktop)
+- **Modern Hero Section** with CTA buttons
+- **Interactive Features Section** with clean card layout
+- **Testimonials Section** with attractive user review cards
+- **Pricing Section** with highlighted "Pro" tier
+- **Minimal & modern Footer**
+- Clean UI generated using **Vercel v0**
+- Built with reusable, organized components
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 🧰 Tech Stack
+
+| Technology | Purpose |
+|-----------|----------|
+| **Next.js 14** | Framework / Routing |
+| **Tailwind CSS** | Styling & Responsiveness |
+| **React Components** | UI Sections |
+| **Vercel v0** | AI-based UI generation |
+| **Vercel** | Deployment |
+
+---
+
+## 📁 Project Structure
+
